@@ -2,7 +2,7 @@
 
 Originally created by Adrien Friggeri, this CV template is popular with users of the [LaTeX](https://www.latex-project.org) application. Unfortunately the [ Friggeri template hosted by LaTeX](https://www.latextemplates.com/template/friggeri-resume-cv) is known to be broken and there does not seem to be any community effort to replicate it. Due to how complex LaTeX is for the average user, I've ported the template to MS Word.  
 
-![screenshot](https://github.com/jtba/friggeri/docs/screenshot1.png)
+![screenshot](https://github.com/jtba/friggeri/blob/master/docs/screenshot1.png)
 
 ## Getting Started
 
